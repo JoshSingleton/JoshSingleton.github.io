@@ -6,8 +6,6 @@ tags: [HomeLab]
 media_subpath: /assets/
 ---
 
-# I Turned My Old Gaming PC Into a Powerful Cybersecurity Homelab
-
 My old gaming rig had served me well for years, but as modern titles demanded more power than it could offer, it slowly stopped being used and sat in storage for months until I thought of a way to repurpose it into something far more educational: a dedicated cybersecurity Homelab.
 
 ![Desktop View](/cyberLab_01.png){: .left }
