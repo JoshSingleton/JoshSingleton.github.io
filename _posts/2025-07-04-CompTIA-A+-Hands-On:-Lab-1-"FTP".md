@@ -1,5 +1,5 @@
 ---
-title: Comp TIA A+ Hands On: Lab 1 FTP
+title: "Comp TIA A+ Hands On: Lab 1 FTP"
 date: 2025-07-04 11:59:00 +0800
 categories: [IT]
 tags: []
