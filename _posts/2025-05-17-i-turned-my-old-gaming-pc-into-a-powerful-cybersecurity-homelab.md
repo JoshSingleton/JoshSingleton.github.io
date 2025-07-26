@@ -5,8 +5,6 @@ categories: [CyberSecurity]
 tags: [HomeLab]
 media_subpath: /assets/
 ---
-> This blog post was created on 2025-04-17
-{: .prompt-info }
 
 My old gaming rig had served me well for years, but as modern titles demanded more power than it could offer, it slowly stopped being used and sat in storage for months until I thought of a way to repurpose it into something far more educational: a dedicated cybersecurity Homelab.
 
