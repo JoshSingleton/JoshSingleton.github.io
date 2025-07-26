@@ -10,7 +10,7 @@ media_subpath: /assets/
 Lab04 "SMTP"
 
 ## Date Completed: 
-05 July 25
+05 July 2025
  
 ## Objective: 
 Learn and understand how to enable SMTP on a small network
