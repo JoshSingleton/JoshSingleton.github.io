@@ -7,7 +7,7 @@ media_subpath: /assets/
 ---
 
 # Lab Number and Title: 
-Lab04 - “SMTP”
+Lab04 "SMTP"
 
 ## Date Completed: 
 05 July 25
