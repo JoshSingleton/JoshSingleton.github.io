@@ -9,12 +9,6 @@ media_subpath: /assets/
 # Lab Number and Title: 
 Lab01 “Remote File Access -- FTP”
 
-## Date Completed: 
-03 July 25
-
-## Time Spent: 
-1h20
-
 ##Objective: 
 Learn how to save configurations using File Transfer Protocol.
 (Back up your router configuration using File Transfer Protocol) 
