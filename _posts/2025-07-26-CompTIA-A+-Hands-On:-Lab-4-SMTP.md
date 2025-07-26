@@ -8,9 +8,6 @@ media_subpath: /assets/
 
 # Lab Number and Title: 
 Lab04 "SMTP"
-
-## Date Completed: 
-05 July 2025
  
 ## Objective: 
 Learn and understand how to enable SMTP on a small network
