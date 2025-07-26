@@ -1,3 +1,11 @@
+---
+title: "Comp TIA A+ Hands On: Lab 4 - SMTP"
+date: 2025-07-04 11:59:00 +0800
+categories: [IT]
+tags: []
+media_subpath: /assets/
+---
+
 # Lab Number and Title: 
 Lab04 - “SMTP”
 
