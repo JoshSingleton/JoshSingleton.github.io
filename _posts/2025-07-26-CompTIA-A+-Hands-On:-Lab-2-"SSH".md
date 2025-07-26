@@ -1,5 +1,5 @@
 ---
-title: "Comp TIA A+ Hands On: Lab 2 "SSH""
+title: "Comp TIA A+ Hands On: Lab 2 - SSH"
 date: 2025-07-26 11:59:00 +0800
 categories: [IT]
 tags: []
