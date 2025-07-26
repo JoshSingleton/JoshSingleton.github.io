@@ -1,6 +1,6 @@
 ---
 title: "Comp TIA A+ Hands On: Lab 4 - SMTP"
-date: 2025-07-04 11:59:00 +0800
+date: 2025-07-26 11:59:00 +0800
 categories: [IT]
 tags: []
 media_subpath: /assets/
