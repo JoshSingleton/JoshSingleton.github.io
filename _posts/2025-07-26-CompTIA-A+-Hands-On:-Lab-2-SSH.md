@@ -8,7 +8,6 @@ media_subpath: /assets/
 
 # Lab Number and Title:
 Lab02 “SSH”
-Date Completed: 04 July 25
  
 ## Objective: 
 Learn and understand how to enable SSH (Secure Shell Script) access to a device.
