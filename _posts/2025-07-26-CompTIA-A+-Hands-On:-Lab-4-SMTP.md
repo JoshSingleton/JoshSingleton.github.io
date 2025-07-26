@@ -1,20 +1,20 @@
-#Lab Number and Title: 
+# Lab Number and Title: 
 Lab04 - “SMTP”
 
-##Date Completed: 
+## Date Completed: 
 05 July 25
  
-##Objective: 
+## Objective: 
 Learn and understand how to enable SMTP on a small network
  
-##Lab Tool: 
+## Lab Tool: 
 Cisco Packet Tracer
 
-##Lab Topology:
+## Lab Topology:
 ![Desktop View](/lab04topology.png)
 
 
-##Steps Taken:
+## Steps Taken:
  1. Assigned IP addresses to the servers and PCs.
  2. Configured email client settings on both PCs.
  3. Added the domain name and the 2 clients and their passwords to the mail server.
