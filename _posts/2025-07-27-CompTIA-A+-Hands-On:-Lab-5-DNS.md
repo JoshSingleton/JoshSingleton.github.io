@@ -13,7 +13,7 @@ Learn how the Domain Name System works.
 ## Lab Tool: 
 Wireshark
 ## Lab Topology:
-
+![Desktop View](/lab05topology.drawio.png)
 
 ## Steps Taken:
  1. Captured internet activity over a two minute time period using wireshark. Searched for ‘www.101labs.net’ using my internet browser during the capture.
