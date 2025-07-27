@@ -1,6 +1,6 @@
 ---
 title: "Comp TIA A+ Hands On: Lab 5 - DNS"
-date: 2025-07-26 11:59:00 +0800
+date: 2025-07-27 11:59:00 +0800
 categories: [IT]
 tags: []
 media_subpath: /assets/
